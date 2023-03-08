@@ -1,0 +1,10 @@
+*{
+    background-color: #E6B17E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #551E19;
+}
+button{
+    margin-left: 200px;
+    padding: 10px;
+    border-radius: 17px;
+}
